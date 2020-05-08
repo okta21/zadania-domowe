@@ -1,0 +1,22 @@
+// Oktawiusz Jeziorek       //zmiencie to !!!!!   hah
+#include <iostream>
+using namespace std;
+int main()
+{
+  string o, j;    //to są zmienne 
+  std::cout << "podaj znak z O: " ;
+  std::cin >> o ;        //zmienna 1
+  std::cout << "podaj znak z J: " ;
+  std::cin >> j ;        //zmienna 2 
+
+
+  std::cout << o << o << o << o << o <<"             "<< j << j << j << j << j <<endl;    //jezeli chcesz zmienić to dajesz inne zmienne i dodajesz spacji między " " jeżeli potrzebne
+  std::cout << o << o <<" "<< o << o <<"                "<< j << j <<endl;
+  std::cout << o << o <<" "<< o << o <<"                "<< j << j <<endl;
+  std::cout << o << o <<" "<< o << o << "." << "." <<"           "<< j << j <<" "<< j << j << "." << "." <<endl;
+  std::cout << o << o << o << o << o << "." << "." <<"            "<< j << j << j << j << "." << "." <<endl;
+
+
+
+  return 0;    // jezeli zwraca 0 to działa
+}
