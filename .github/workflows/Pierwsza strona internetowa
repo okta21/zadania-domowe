@@ -1,0 +1,56 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+	<meta charset="utf-8" />
+	<title>Najlepsze filmy!</title>
+	<meta name="description" content="Przed Tobą spis moich ulubionych filmów. Sprawdź, czy znasz je wszystkie. Uczta dla kinomaniaka!" />
+	<meta name="keywords" content="film, kino, najlepsze filmy, top filmy" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+</head>
+
+<body>
+	<h1>Najlepsze filmy!</h1>
+		
+	 <h2>Oktawiusz Jeziorek 1Ag</h2>	
+	
+	<a href="https://www.filmweb.pl/film/Ocalony-2013-613320" target="_blank" >
+		ocalony
+	</a>
+	
+	<br /><br />
+	
+	<a href="https://www.filmweb.pl/film/Ocalony-2013-613320" target="_blank" >
+	<img src="img/ocalony.jpg" width="200" />
+	</a>
+
+	<br /><br />
+	
+	
+	<a href="https://www.filmweb.pl/film/6+dni-2017-754623" target="_blank" >
+		6 dni
+	</a>
+	
+	<br /><br />
+	
+	<a href="https://www.filmweb.pl/film/6+dni-2017-754623" target="_blank" >
+		<img src="img/6dni.jpg" width="200" />
+	</a>
+
+	<br /><br />
+	
+	
+	<a href="https://www.filmweb.pl/film/Snajper-2014-656040" target="_blank" >
+		Snajper
+	</a>
+	
+	<br /><br />
+	
+	<a href="https://www.filmweb.pl/film/Snajper-2014-656040" target="_blank" >
+		<img src="img/snajper.jpg" width="200" />
+	</a>
+
+
+
+
+</body>
+</html>
